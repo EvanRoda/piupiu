@@ -1,2 +1,2 @@
 # piupiu
-# Controls: WASD + L
+# Controls: WASD + KL
